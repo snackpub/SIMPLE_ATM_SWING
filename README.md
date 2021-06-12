@@ -1,2 +1,2 @@
 # atm_swing
-ATM SIMPLE SWING
+模拟银行ATM,基础控制台版本
